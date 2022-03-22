@@ -1,2 +1,2 @@
-# Coviddetectedmachinelatest_softwareupdate
-Covid detector machine latest software update 
+# CovidDetectorMachinesoftware
+CovidDetectormachine software gui to control the function of the catesian robot movement 
